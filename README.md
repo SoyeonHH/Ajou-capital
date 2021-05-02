@@ -15,6 +15,7 @@
 
 ## r2 score 결과
 
+#### LG
 ![LG화학](https://user-images.githubusercontent.com/72512692/116811501-af4ca280-ab84-11eb-812f-756040c67033.png)
 ![NAVER](https://user-images.githubusercontent.com/72512692/116811520-cab7ad80-ab84-11eb-893d-7dc27c172464.png)
 ![SK하이닉스](https://user-images.githubusercontent.com/72512692/116811563-10747600-ab85-11eb-9090-dc76b99fda16.png)
