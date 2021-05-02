@@ -14,6 +14,5 @@
 
 
 ## r2 score 결과
-![LG화학](/r2 score 결과/LG화학.png)
 
-!(r2 score 결과/LG화학.png)
+![LG화학](https://user-images.githubusercontent.com/72512692/116811501-af4ca280-ab84-11eb-812f-756040c67033.png)
