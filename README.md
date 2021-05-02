@@ -15,3 +15,4 @@
 
 ## r2 score 결과
 ![LG화학](/r2 score 결과/LG화학.png)
+r2 score 결과/LG화학.png
