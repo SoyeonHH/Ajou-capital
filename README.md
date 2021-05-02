@@ -39,5 +39,5 @@
 #### 카카오
 ![카카오](https://user-images.githubusercontent.com/72512692/116811581-1f5b2880-ab85-11eb-88f3-6dc83c7825ce.png)
 
-#### 
+#### 현대차
 ![현대차](https://user-images.githubusercontent.com/72512692/116811583-2124ec00-ab85-11eb-8e0c-2f75809e1d15.png)
