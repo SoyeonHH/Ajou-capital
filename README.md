@@ -8,7 +8,9 @@
 * 팀원 : 김동현, 이은주, 전상범, 조규한, 홍소연
 * 주제 : 검색 변화량과 주식 지표를 활용한 주가 예측
 * 날짜 : 2020-06
-* Linear Regression 모델
+* model : Linear Regression
+* description : 9개의 회사별로 1주일 단위의 검색 변화량 지표와 주식 지표 120주의 데이터를 예측변수로 하여 각 주의 다음주 주가를 예측하는 회귀 모델을 생성한다.
 
 
-# r2 score 결과
+## r2 score 결과
+![LG화학](r2 score 결과/LG화학.PNG "LG화학")
